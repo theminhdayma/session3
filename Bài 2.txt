@@ -1,0 +1,39 @@
+-Thẻ Inline:
+	+ Có width chiếm trọn content ở bên trong
+	+ Còn đủ khoảng trống để các thẻ inline có thể hiện thị trên cùng 1 dòng
+Ví dụ:
+<a>: Tạo liên kết
+<b> : Nổi bật văn bản
+<br> : Xuống dòng
+<button> : Tạo nút
+<em>: In nghiêng
+<i>: Viết hoa văn bản
+<img>: Nhúng hình ảnh
+<input>: Tạo các trường nhập trong 1 biển mẫu
+<label>: Tạo nhãn cho các trường nhập
+<span> Nhóm các phần tử HTML lại với nhau
+<strong>: Nhấn mạnh văn bản quan trọng
+<u>: Gạch chân văn bản
+<big><small>: Kiểu chữ lớn nhỏ
+<var>: Kiểu biến số
+<cite>: Văn bản trích dẫn
+
+
+-Thẻ Block:
+	+ Chiếm toàn bộ width 
+	+ Không còn khoảng trống nên không cho hiển thị thẻ inline khác 
+Ví dụ:
+<P>: Thẻ đoạn văn để tạo 1 văn bản
+<h1> đến <h6> : Các thẻ tiêu đề được sử dụng để tạo các tiêu đề cấp đội khác nhau
+<ul>: Tạo danh sách không theo thứ tự
+<ol>: Tạo danh sách theo thứ tự
+<table> : Tạo bảng
+<from> : Tạo các biểu mẫu để người dùng gửi thông tin
+<div>: Nhóm các phần tử HTML với nhau
+<article>: Xác định 1 phần nội dung hoàn chỉnh (1 bài báo hoặc 1 bài đăng)
+<aside>: Chứa nội dung phụ hoặc liên quan (thanh bên hoặc khu vực khuyến mãi)
+<footer>: Chứa nội dung ở cuối trang web ( thông tin liên hệ hoặc bản quyền)
+<header>: Chứa nội dung ở đầu trang web ( menu điều hướng hay tiêu đề)
+<nav> : Chứa menu điều hướng
+<section> : Xác định 1 phần nội dung trên web ( 1 phần giới thiệu hay 1 phần nội dung cụ thể )
+<dl><dt><dd>: Sử dụng cho danh sách có các mục và có nội dung mô tả cho các mục

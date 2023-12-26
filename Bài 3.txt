@@ -1,0 +1,11 @@
+- Một số thẻ Semantic trong HTML: 
+
+<section>: phân biệt các nội dung
+<article>: chứa thông tin riêng biệt
+<header>: phần đầu 
+<footer>: Phần kết thúc
+<nav>: chứa menu điều hướng
+<aside>: Nội dung bên ngoài nội dung chính
+<figure>: Xác định các nội dung liên quan tới nhau
+<figcaption>: chú thích cho <figure>
+
